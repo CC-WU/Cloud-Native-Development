@@ -1,4 +1,20 @@
-As a Shopper
+Uber User Stories Examples
+
+User Stories # 1
+作為行動不便的乘客，我想找台具有無障礙服務的車，以便能輕鬆前往所在社區的各個地點。
+
+acceptance criteria:
+- Given: 行動不便的乘客進入地圖頁面
+- When: 行動不便的乘客輸入條件為有無障礙服務的車
+- Then: 行動不便的乘客可以看到他附近有無障礙服務車的位置
+
+User Stories # 2
+作為乘客，可以輕鬆分享行程詳細資訊，包括特定路線和預估抵達時間，讓親朋好友更加放心。
+
+acceptance criteria:
+- Given: 乘客進入地圖頁面
+- When: 乘客分享行程詳細資訊
+- Then: 乘客可以看到通訊軟體顯示已分享畫面
 
 
 
